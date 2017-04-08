@@ -1,0 +1,45 @@
+header{
+	border: 1px ;
+	border-color: lightblue;
+}
+
+.firstList{
+	list-style: none;
+	padding-top: 25px;
+}
+
+ a .disabled{
+	color: purple;
+}
+.disabled{
+	color: grey;
+}
+.active{
+	color: yellow;
+}
+#redtoBlue{
+	color: blue;
+}
+#bluetoRed{
+	color: red;
+}
+
+.parent .allred{
+	background-color: red;
+}
+.parent .allblue{
+	background-color: blue;
+}
+
+.grandparent h4{
+	border: solid 1px;
+	border-radius: 20% 20% 20% 20%;
+
+}
+.promo{
+	font-weight: bold;
+	color: gold;
+}
+footer input{
+	height: 25px;
+}
